@@ -1,3 +1,3 @@
 DEVELOP
 
-utkozes a MASTER-rel
+conflict with master
