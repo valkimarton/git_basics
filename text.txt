@@ -2,3 +2,5 @@ DEVELOP
 
 merged to MASTER
 conflict with master
+
+Detail added
