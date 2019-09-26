@@ -4,3 +4,5 @@ merged to MASTER
 conflict with master
 
 Detail added
+
+One more line added
