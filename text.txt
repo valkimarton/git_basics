@@ -13,3 +13,5 @@ fix fix
 fix fix fix 
 good fix good fix good fix 	// reviewed 
 fix fix 
+
+EVERITHING FIXED
