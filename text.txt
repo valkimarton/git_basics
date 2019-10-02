@@ -6,3 +6,12 @@ conflict with master
 Detail added
 
 One more line added
+
+Fixes:
+fix fix fix fix fix 
+fix fix 
+fix fix fix 
+good fix good fix good fix 	// reviewed 
+fix fix 
+
+EVERITHING FIXED
