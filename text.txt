@@ -6,3 +6,10 @@ conflict with master
 Detail added
 
 One more line added
+
+Fixes:
+fix fix fix fix fix 
+fix fix 
+fix fix fix 
+bad fix bad fix bad fix 
+fix fix 
